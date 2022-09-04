@@ -23,3 +23,7 @@ https://winstall.app/packs/ReA1Vp_Pq
 ```
 https://www.nerdfonts.com/font-downloads
 ```
+### Remove Viruses with: 
+```
+https://github.com/bmrf/tron
+```
