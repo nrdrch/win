@@ -19,6 +19,10 @@ https://winstall.app/apps
 ```
 https://winstall.app/packs/ReA1Vp_Pq 
 ```
+### Gandhi's Choice
+```
+https://winstall.app/packs/ogsNQd2PO 
+```
 ### Get Mono Space Fonts at:
 ```
 https://www.nerdfonts.com/font-downloads
