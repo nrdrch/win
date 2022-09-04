@@ -15,6 +15,9 @@ https://github.com/massgravel/Microsoft-Activation-Scripts
 ```
 https://winstall.app/apps
 ```
+```
+https://winstall.app/packs/ReA1Vp_Pq 
+```
 ### Get Mono Space Fonts at:
 ```
 https://www.nerdfonts.com/font-downloads
