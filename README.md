@@ -11,8 +11,10 @@
 ```
 https://www.nerdfonts.com/font-downloads
 ```
-
-
+### Microsoft Activation Scripts:
+```
+https://github.com/massgravel/Microsoft-Activation-Scripts
+```
 
 
 
