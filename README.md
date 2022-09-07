@@ -16,11 +16,11 @@ iwr -useb https://massgrave.dev/get | iex
 ```
 https://winstall.app/apps
 ```
-### My Selection:
+### Personal Packs:
 ```
 https://winstall.app/packs/ReA1Vp_Pq 
 ```
-### Gandhi's Choice
+### Gandhi Starter Pack:
 ```
 https://winstall.app/packs/ogsNQd2PO 
 ```
