@@ -8,8 +8,9 @@
 
 
 ### Activate Windows with Microsoft Activation Scripts:
+(https://github.com/massgravel/Microsoft-Activation-Scripts/releases/tag/1.6)
 ```
-https://github.com/massgravel/Microsoft-Activation-Scripts
+iwr -useb https://massgrave.dev/get | iex
 ```
 ### Quikly Install Common Applications:
 ```
