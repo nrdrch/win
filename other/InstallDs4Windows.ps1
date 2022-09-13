@@ -1,0 +1,1 @@
+winget install --id=ViGEm.ViGEmBus -e  ; winget install --id=ViGEm.HidHide -e  ; winget install --id=Microsoft.DotNet.Runtime.5 -e  ; winget install --id=Microsoft.VC++2015-2022Redist-x64 -e ; git clone https://github.com/Jays2Kings/DS4Windows.git
