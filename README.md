@@ -18,7 +18,7 @@ https://winstall.app/apps
 ```
 #### Personal Packs:
 ```
-https://winstall.app/users/you
+https://winstall.app/users/1566339955248463873
 ```
 #### Gandhi Starter Pack:
 ```
