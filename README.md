@@ -18,10 +18,6 @@ iwr -useb https://massgrave.dev/get | iex
 ```
 https://winstall.app/users/1566339955248463873
 ```
-#### Gandhi Starter Pack:
-```
-https://winstall.app/packs/ogsNQd2PO 
-```
 ### Get Mono Space Fonts at:
 ```
 https://www.nerdfonts.com/font-downloads
