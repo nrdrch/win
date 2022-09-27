@@ -22,7 +22,12 @@ https://winstall.app/users/1566339955248463873
 ```
 https://www.nerdfonts.com/font-downloads
 ```
+### Create a capable Discord Music Bot 
+```
+https://just-some-bots.github.io/MusicBot/installing/windows/
+```
 ### Remove Viruses with: 
 ```
 https://github.com/bmrf/tron
 ```
+
