@@ -30,4 +30,7 @@ https://just-some-bots.github.io/MusicBot/installing/windows/
 ```
 https://github.com/bmrf/tron
 ```
-
+### Create A Folder And rename it o:
+```
+Magic.{ED7BA470-8E54-465E-825C-99712043E01C}
+```
