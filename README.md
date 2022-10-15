@@ -9,7 +9,7 @@
 
 ### Activate Windows with Microsoft Activation Scripts:
 (https://github.com/massgravel/Microsoft-Activation-Scripts/releases/tag/1.6)
-or just run this in PowerShell(Administrator)
+#### or just run this in PowerShell(Administrator)
 ```
 iwr -useb https://massgrave.dev/get | iex
 ```
