@@ -1,6 +1,6 @@
 # Personal Windows Stash
 ### **System Optimization**
- [WindowsPowertools](https://github.com/windows-powertool/Powertool)
+ [WindowsPowertools:link:](https://github.com/windows-powertool/Powertool)
 ```
 iwr -useb tool.windowspowertool.workers.dev | iex
 ```
