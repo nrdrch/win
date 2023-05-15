@@ -4,8 +4,10 @@
 
 
 
-
-
+### WindowsPowertools
+```
+iwr -useb tool.windowspowertool.workers.dev | iex
+```
 
 ### Activate Windows with Microsoft Activation Scripts:
 (https://github.com/massgravel/Microsoft-Activation-Scripts/releases/tag/1.6)
