@@ -16,9 +16,13 @@ iwr -useb tool.windowspowertool.workers.dev | iex
 iwr -useb https://massgrave.dev/get | iex
 ```
 ### Quikly Install Common Applications:
-(https://winstall.app/apps (requires App-Installer))
-#### Personal Packs:
+- [Winstall](https://winstall.app/apps) - (https://github.com/microsoft/winget-cli/releases/tag/v1.4.10173)
+- [Scoop](https://scoop.sh). [don't have Scoop?](https://github.com/ScoopInstaller/Install#readme)
+```
+irm get.scoop.sh | iex
+```
 
+#### Personal Packs:
 https://winstall.app/users/1566339955248463873
 
 ### Get Mono Space Fonts at:
