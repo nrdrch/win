@@ -23,7 +23,7 @@ iwr -useb https://massgrave.dev/get | iex
 [Nerdfonts:link:](https://www.nerdfonts.com/font-downloads)
 
 ### **Discord Music Bot** 
-[:link:Installation guide](https://just-some-bots.github.io/MusicBot/installing/windows/)
+[Installation guide:link:](https://just-some-bots.github.io/MusicBot/installing/windows/)
 ### **Rename a folder to this**
 ```
 Magic.{ED7BA470-8E54-465E-825C-99712043E01C}
