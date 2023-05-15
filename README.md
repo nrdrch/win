@@ -1,6 +1,5 @@
 # Personal Windows Stash
-## **System**
-### **A) Optimization**
+### **System Optimization**
 - WindowsPowertools
 ```
 iwr -useb tool.windowspowertool.workers.dev | iex
@@ -9,17 +8,17 @@ iwr -useb tool.windowspowertool.workers.dev | iex
 ```
 iwr -useb https://christitus.com/win | iex
 ```
-#### 2) Activation of Windows or MSOffice with [MAS](https://github.com/massgravel/Microsoft-Activation-Scripts/releases/tag/1.6)
+### **Activation of Windows or MSOffice with [MAS](https://github.com/massgravel/Microsoft-Activation-Scripts/releases/tag/1.6)**
 ```
 iwr -useb https://massgrave.dev/get | iex
 ```
 
 ### **PowerShell related**
-##### B) Package Managers
+### Package Managers
 - [browse winget](https://winstall.app/apps) or [install winget](https://github.com/microsoft/winget-cli/releases/tag/v1.4.10173), ([my pack](https://winstall.app/users/1566339955248463873))
 - [browse scoop](https://scoop.sh) or [install scoop](https://github.com/ScoopInstaller/Install#readme)
 
-## Get Mono Space Fonts
+### **Get Mono Space Fonts**
 - [nerdfonts](https://www.nerdfonts.com/font-downloads)
 
 
