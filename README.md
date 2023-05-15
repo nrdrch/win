@@ -1,6 +1,6 @@
 # Personal Windows Stash
-## __System__
-### a) Optimization
+## **System**
+### **A) Optimization**
 - WindowsPowertools
 ```
 iwr -useb tool.windowspowertool.workers.dev | iex
@@ -9,16 +9,18 @@ iwr -useb tool.windowspowertool.workers.dev | iex
 ```
 iwr -useb https://christitus.com/win | iex
 ```
-### b) Activation of Windows or MSOffice with [MAS](https://github.com/massgravel/Microsoft-Activation-Scripts/releases/tag/1.6)
+#### 2) Activation of Windows or MSOffice with [MAS](https://github.com/massgravel/Microsoft-Activation-Scripts/releases/tag/1.6)
 ```
 iwr -useb https://massgrave.dev/get | iex
 ```
-### Package Managers
+
+### **PowerShell related**
+##### B) Package Managers
 - [browse winget](https://winstall.app/apps) or [install winget](https://github.com/microsoft/winget-cli/releases/tag/v1.4.10173), ([my pack](https://winstall.app/users/1566339955248463873))
 - [browse scoop](https://scoop.sh) or [install scoop](https://github.com/ScoopInstaller/Install#readme)
 
 ## Get Mono Space Fonts
-[nerdfonts](https://www.nerdfonts.com/font-downloads)
+- [nerdfonts](https://www.nerdfonts.com/font-downloads)
 
 
 ### Create A Capable Discord Music Bot 
