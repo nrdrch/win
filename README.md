@@ -1,4 +1,9 @@
 # Personal Windows Stash
+### **Windows Activation with [MAS](https://github.com/massgravel/Microsoft-Activation-Scripts/releases/tag/1.6)** <sub> including MSOffice until [2019](other/Setup64.exe)<sub/>
+
+```
+iwr -useb https://massgrave.dev/get | iex
+```
 ### **System Optimization**
  [WindowsPowertools](https://github.com/windows-powertool/Powertool)
 ```
@@ -8,11 +13,7 @@ iwr -useb tool.windowspowertool.workers.dev | iex
 ```
 iwr -useb https://christitus.com/win | iex
 ```
-### **Windows Activation with [MAS](https://github.com/massgravel/Microsoft-Activation-Scripts/releases/tag/1.6)** <sub> including MSOffice until [2019](other/Setup64.exe)<sub/>
 
-```
-iwr -useb https://massgrave.dev/get | iex
-```
 ### **Virus Removal**
  [Tron Script](https://github.com/bmrf/tron)
 ### **Package Managers**
