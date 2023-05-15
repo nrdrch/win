@@ -16,10 +16,10 @@ iwr -useb https://massgrave.dev/get | iex
 ### **Virus Removal**
  [Tron Script](https://github.com/bmrf/tron)
 ### **Package Managers**
-|Website    |Download link|CMD                      |
+|Website    |Download link|PowerShell   |
 |-----------|-------------|--------------------------
 |[Winget](https://winstall.app/apps)|[Winget](https://github.com/microsoft/winget-cli/releases/tag/v1.4.10173)|
-|[Scoop](https://scoop.sh)|[Scoop](https://github.com/ScoopInstaller/Install#readme)|
+|[Scoop](https://scoop.sh)|[Scoop](https://github.com/ScoopInstaller/Install#readme)|irm get.scoop.sh | iex
 |[PowerShell Gallery](https://www.powershellgallery.com/)||
 
 ,  &  or **install**  
