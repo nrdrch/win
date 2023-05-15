@@ -14,23 +14,16 @@ iwr -useb https://massgrave.dev/get | iex
 ```
 ### **Virus Removal**
 - [Tron](https://github.com/bmrf/tron)
-### **PowerShell related**
-#### Package Managers
+### **Package Managers**
 - [browse Winget](https://winstall.app/apps) or [install winget](https://github.com/microsoft/winget-cli/releases/tag/v1.4.10173), ([my pack](https://winstall.app/users/1566339955248463873))
 - [browse Scoop](https://scoop.sh) or [install scoop](https://github.com/ScoopInstaller/Install#readme)
 
-#### **Fonts**
+### **Fonts**
 - [Nerdfonts](https://www.nerdfonts.com/font-downloads)
 
-### Create A Capable Discord Music Bot 
-
-https://just-some-bots.github.io/MusicBot/installing/windows/
-
-### Remove Viruses with: 
-
-
-
-### Create A Folder And rename it o:
+### **Discord Music Bot** 
+- [installation guide](https://just-some-bots.github.io/MusicBot/installing/windows/)
+### **Rename a folder to this**
 ```
 Magic.{ED7BA470-8E54-465E-825C-99712043E01C}
 ```
