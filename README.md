@@ -8,7 +8,7 @@ iwr -useb tool.windowspowertool.workers.dev | iex
 ```
 iwr -useb https://christitus.com/win | iex
 ```
-### **Windows Activation** <sub> including MSOffice until [2019](other/Setup64.exe)[MAS:link:](https://github.com/massgravel/Microsoft-Activation-Scripts/releases/tag/1.6)<sub/>
+### **Windows Activation with [MAS:link:](https://github.com/massgravel/Microsoft-Activation-Scripts/releases/tag/1.6)** <sub> including MSOffice until [2019](other/Setup64.exe)<sub/>
 
 ```
 iwr -useb https://massgrave.dev/get | iex
