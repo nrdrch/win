@@ -14,14 +14,8 @@ iwr -useb https://christitus.com/win | iex
 iwr -useb https://massgrave.dev/get | iex
 ```
 ### Package Managers
-- [Winstall](https://winstall.app/apps) - [install winget](https://github.com/microsoft/winget-cli/releases/tag/v1.4.10173)
-- [Scoop](https://scoop.sh). [install scoop](https://github.com/ScoopInstaller/Install#readme)
-```
-irm get.scoop.sh | iex
-```
-
-#### Personal Packs:
-https://winstall.app/users/1566339955248463873
+- [browse winget](https://winstall.app/apps) or [install winget](https://github.com/microsoft/winget-cli/releases/tag/v1.4.10173), ([my pack](https://winstall.app/users/1566339955248463873))
+- [browse scoop](https://scoop.sh) or [install scoop](https://github.com/ScoopInstaller/Install#readme)
 
 ### Get Mono Space Fonts at:
 
