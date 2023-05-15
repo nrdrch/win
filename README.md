@@ -22,7 +22,6 @@ iwr -useb https://massgrave.dev/get | iex
 |[Scoop](https://scoop.sh)|[Scoop](https://github.com/ScoopInstaller/Install#readme) 
 |[PowerShell Gallery](https://www.powershellgallery.com/)
 
-,  &  or **install**  
 
 ### **Fonts**
 [Nerdfonts](https://www.nerdfonts.com/font-downloads)
