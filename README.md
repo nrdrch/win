@@ -1,10 +1,10 @@
 # Personal Windows Stash
 ### **System Optimization**
-- WindowsPowertools
+- [WindowsPowertools](https://github.com/windows-powertool/Powertool)
 ```
 iwr -useb tool.windowspowertool.workers.dev | iex
 ```
-- Windows 10 Debloater
+- [Windows 10 Debloater](https://github.com/ChrisTitusTech/winutil)
 ```
 iwr -useb https://christitus.com/win | iex
 ```
@@ -12,15 +12,15 @@ iwr -useb https://christitus.com/win | iex
 ```
 iwr -useb https://massgrave.dev/get | iex
 ```
-
+### **Virus Removal**
+- [Tron](https://github.com/bmrf/tron)
 ### **PowerShell related**
-### Package Managers
-- [browse winget](https://winstall.app/apps) or [install winget](https://github.com/microsoft/winget-cli/releases/tag/v1.4.10173), ([my pack](https://winstall.app/users/1566339955248463873))
-- [browse scoop](https://scoop.sh) or [install scoop](https://github.com/ScoopInstaller/Install#readme)
+#### Package Managers
+- [browse Winget](https://winstall.app/apps) or [install winget](https://github.com/microsoft/winget-cli/releases/tag/v1.4.10173), ([my pack](https://winstall.app/users/1566339955248463873))
+- [browse Scoop](https://scoop.sh) or [install scoop](https://github.com/ScoopInstaller/Install#readme)
 
-### **Get Mono Space Fonts**
-- [nerdfonts](https://www.nerdfonts.com/font-downloads)
-
+#### **Fonts**
+- [Nerdfonts](https://www.nerdfonts.com/font-downloads)
 
 ### Create A Capable Discord Music Bot 
 
@@ -28,7 +28,7 @@ https://just-some-bots.github.io/MusicBot/installing/windows/
 
 ### Remove Viruses with: 
 
-https://github.com/bmrf/tron
+
 
 ### Create A Folder And rename it o:
 ```
