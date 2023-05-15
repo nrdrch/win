@@ -1,21 +1,19 @@
-## Personal Windows Stash
-
-
-
-
-
-### WindowsPowertools
+# Personal Windows Stash
+## System
+### a) Optimization
+- WindowsPowertools
 ```
 iwr -useb tool.windowspowertool.workers.dev | iex
 ```
-
-### Activate Windows with Microsoft Activation Scripts:
-(https://github.com/massgravel/Microsoft-Activation-Scripts/releases/tag/1.6)
-#### or just run this in PowerShell(Administrator)
+- Windows 10 Debloater
+```
+iwr -useb https://christitus.com/win | iex
+```
+### Activate Windows or MSOffice with [MAS](https://github.com/massgravel/Microsoft-Activation-Scripts/releases/tag/1.6)
 ```
 iwr -useb https://massgrave.dev/get | iex
 ```
-### Quikly Install Common Applications:
+### Package Managers
 - [Winstall](https://winstall.app/apps) - (https://github.com/microsoft/winget-cli/releases/tag/v1.4.10173)
 - [Scoop](https://scoop.sh). [don't have Scoop?](https://github.com/ScoopInstaller/Install#readme)
 ```
