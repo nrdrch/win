@@ -9,13 +9,13 @@ iwr -useb tool.windowspowertool.workers.dev | iex
 ```
 iwr -useb https://christitus.com/win | iex
 ```
-### Activate Windows or MSOffice with [MAS](https://github.com/massgravel/Microsoft-Activation-Scripts/releases/tag/1.6)
+### b) Activation of Windows or MSOffice with [MAS](https://github.com/massgravel/Microsoft-Activation-Scripts/releases/tag/1.6)
 ```
 iwr -useb https://massgrave.dev/get | iex
 ```
 ### Package Managers
-- [Winstall](https://winstall.app/apps) - (https://github.com/microsoft/winget-cli/releases/tag/v1.4.10173)
-- [Scoop](https://scoop.sh). [don't have Scoop?](https://github.com/ScoopInstaller/Install#readme)
+- [Winstall](https://winstall.app/apps) - [install winget](https://github.com/microsoft/winget-cli/releases/tag/v1.4.10173)
+- [Scoop](https://scoop.sh). [install scoop](https://github.com/ScoopInstaller/Install#readme)
 ```
 irm get.scoop.sh | iex
 ```
