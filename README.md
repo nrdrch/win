@@ -8,22 +8,22 @@ iwr -useb tool.windowspowertool.workers.dev | iex
 ```
 iwr -useb https://christitus.com/win | iex
 ```
-### **Windows Activation** <sub> including MSOffice until [2019](other/Setup64.exe)[:link:MAS](https://github.com/massgravel/Microsoft-Activation-Scripts/releases/tag/1.6)<sub/>
+### **Windows Activation** <sub> including MSOffice until [2019](other/Setup64.exe)[MAS:link:](https://github.com/massgravel/Microsoft-Activation-Scripts/releases/tag/1.6)<sub/>
 
 ```
 iwr -useb https://massgrave.dev/get | iex
 ```
 ### **Virus Removal**
- [:link:Tron Script](https://github.com/bmrf/tron)
+ [Tron Script:link:](https://github.com/bmrf/tron)
 ### **Package Managers**
-##### [:link:browse Winget](https://winstall.app/apps) or [:arrow_down:install Winget](https://github.com/microsoft/winget-cli/releases/tag/v1.4.10173), ([:link:my packs](https://winstall.app/users/1566339955248463873))
-##### [:link:browse Scoop](https://scoop.sh) or [:arrow_down:install Scoop](https://github.com/ScoopInstaller/Install#readme)
-##### [:link:browse PowerShell Gallery](https://www.powershellgallery.com/)
+##### [browse Winget:link:](https://winstall.app/apps) or [install Winget:link:](https://github.com/microsoft/winget-cli/releases/tag/v1.4.10173), ([my packs:link:](https://winstall.app/users/1566339955248463873))
+##### [browse Scoop:link:](https://scoop.sh) or [install Scoop:link:](https://github.com/ScoopInstaller/Install#readme)
+##### [browse PowerShell Gallery:link:](https://www.powershellgallery.com/)
 ### **Fonts**
-[:link:Nerdfonts](https://www.nerdfonts.com/font-downloads)
+[Nerdfonts:link:](https://www.nerdfonts.com/font-downloads)
 
 ### **Discord Music Bot** 
-[:arrow_down:Installation guide](https://just-some-bots.github.io/MusicBot/installing/windows/)
+[:link:Installation guide](https://just-some-bots.github.io/MusicBot/installing/windows/)
 ### **Rename a folder to this**
 ```
 Magic.{ED7BA470-8E54-465E-825C-99712043E01C}
