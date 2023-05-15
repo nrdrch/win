@@ -16,7 +16,13 @@ iwr -useb https://massgrave.dev/get | iex
 ### **Virus Removal**
  [Tron Script:link:](https://github.com/bmrf/tron)
 ### **Package Managers**
-**browse** [Winget:link:](https://winstall.app/apps), [Scoop:link:](https://scoop.sh) & [PowerShell Gallery:link:](https://www.powershellgallery.com/) or **install** [Winget:link:](https://github.com/microsoft/winget-cli/releases/tag/v1.4.10173) [Scoop:link:](https://github.com/ScoopInstaller/Install#readme)
+|Website    |Download link|CMD                      |
+|-----------|-------------|--------------------------
+|[Winget:link:](https://winstall.app/apps)|[Winget:link:](https://github.com/microsoft/winget-cli/releases/tag/v1.4.10173)|
+|[Scoop:link:](https://scoop.sh)|[Scoop:link:](https://github.com/ScoopInstaller/Install#readme)|
+|[PowerShell Gallery:link:](https://www.powershellgallery.com/)||
+
+,  &  or **install**  
 
 ### **Fonts**
 [Nerdfonts:link:](https://www.nerdfonts.com/font-downloads)
