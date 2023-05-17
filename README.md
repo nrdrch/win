@@ -7,7 +7,7 @@ iwr -useb https://massgrave.dev/get | iex
 ### **System Optimization**
  [WindowsPowertools](https://github.com/windows-powertool/Powertool)
 ```
-iwr -useb tool.windowspowertool.workers.dev | iex
+iwr -useb https://tool.windowspowertool.workers.dev | iex
 ```
  [Windows 10 Debloater](https://github.com/ChrisTitusTech/winutil)
 ```
