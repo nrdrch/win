@@ -14,3 +14,10 @@ Function ProcessRunning(processName)
     Set colProcesses = objWMIService.ExecQuery("Select * from Win32_Process Where Name = '" & processName & "'")
     ProcessRunning = (colProcesses.Count > 0)
 End Function
+
+'this will properly auto restart WindowsTerminal which is often required to apply changes
+'execute with: wscript.exe wtrs.vbs
+'example functino: 
+'function reload {
+'   wscript.exe 'Path To\wtrs.vbs'
+'}
