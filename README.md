@@ -16,16 +16,28 @@ iwr -useb https://christitus.com/win | iex
 
 ### **Virus Removal**
  [Tron Script](https://github.com/bmrf/tron)
-### **Package Managers**
+<details>
+<summary>
+Package Managers
+</summary>
+
 |Website    |Download link|
 |-----------|-------------|
 |[Winget](https://winstall.app/apps)|[Winget](https://github.com/microsoft/winget-cli/releases/tag/v1.4.10173)
 |[Scoop](https://scoop.sh)|[Scoop](https://github.com/ScoopInstaller/Install#readme) 
 |[PowerShell Gallery](https://www.powershellgallery.com/)
+</details>
 
 
-### **Fonts**
+<details>
+<summary>
+Fonts
+</summary>
+
 [Nerdfonts](https://www.nerdfonts.com/font-downloads)
+
+[Hack](https://github.com/ryanoasis/nerd-fonts/releases/download/v3.0.1/Hack.zip), [MesloLG](https://github.com/ryanoasis/nerd-fonts/releases/download/v3.0.1/Meslo.zip), [JetBrainsMono](https://github.com/ryanoasis/nerd-fonts/releases/download/v3.0.1/JetBrainsMono.zip), [Terminess](https://github.com/ryanoasis/nerd-fonts/releases/download/v3.0.1/Terminus.zip)
+<details>
 
 ### **Discord Music Bot** 
 [Installation guide](https://just-some-bots.github.io/MusicBot/installing/windows/)
