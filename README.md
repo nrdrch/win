@@ -4,6 +4,7 @@
 ```
 iwr -useb https://massgrave.dev/get | iex
 ```
+-----------------
 ### **System Optimization**
  [WindowsPowertools](https://github.com/windows-powertool/Powertool)
 ```
@@ -13,9 +14,13 @@ iwr -useb https://tool.windowspowertool.workers.dev | iex
 ```
 iwr -useb https://christitus.com/win | iex
 ```
-
+------------------
 ### **Virus Removal**
- [Tron Script](https://github.com/bmrf/tron)
+
+### [Tron Script](https://github.com/bmrf/tron)
+
+-----------
+
 <details>
 <summary>
 Package Managers
@@ -37,9 +42,12 @@ Package Managers
 Fonts
 </summary>
 
-[Nerdfonts](https://www.nerdfonts.com/font-downloads)
-
-[Hack](https://github.com/ryanoasis/nerd-fonts/releases/download/v3.0.1/Hack.zip), [MesloLG](https://github.com/ryanoasis/nerd-fonts/releases/download/v3.0.1/Meslo.zip), [JetBrainsMono](https://github.com/ryanoasis/nerd-fonts/releases/download/v3.0.1/JetBrainsMono.zip), [Terminess](https://github.com/ryanoasis/nerd-fonts/releases/download/v3.0.1/Terminus.zip)
+### [all Nerdfonts](https://www.nerdfonts.com/font-downloads)
+My favourite:
+- [Hack](https://github.com/ryanoasis/nerd-fonts/releases/download/v3.0.1/Hack.zip)
+- [MesloLG](https://github.com/ryanoasis/nerd-fonts/releases/download/v3.0.1/Meslo.zip)
+- [JetBrainsMono](https://github.com/ryanoasis/nerd-fonts/releases/download/v3.0.1/JetBrainsMono.zip)
+- [Terminess](https://github.com/ryanoasis/nerd-fonts/releases/download/v3.0.1/Terminus.zip)
 </details>
 
 
@@ -48,7 +56,7 @@ Fonts
 Discord Music Bot
 </summary> 
 
-[Source](https://just-some-bots.github.io/MusicBot/installing/windows/)
+### [Source](https://just-some-bots.github.io/MusicBot/installing/windows/)
 
 ### Installation
 1. Install [Python3.8](https://www.python.org/ftp/python/3.8.10/python-3.8.10-amd64.exe)
