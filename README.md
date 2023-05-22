@@ -37,7 +37,7 @@ Fonts
 [Nerdfonts](https://www.nerdfonts.com/font-downloads)
 
 [Hack](https://github.com/ryanoasis/nerd-fonts/releases/download/v3.0.1/Hack.zip), [MesloLG](https://github.com/ryanoasis/nerd-fonts/releases/download/v3.0.1/Meslo.zip), [JetBrainsMono](https://github.com/ryanoasis/nerd-fonts/releases/download/v3.0.1/JetBrainsMono.zip), [Terminess](https://github.com/ryanoasis/nerd-fonts/releases/download/v3.0.1/Terminus.zip)
-<details>
+</details>
 
 ### **Discord Music Bot** 
 [Installation guide](https://just-some-bots.github.io/MusicBot/installing/windows/)
