@@ -33,7 +33,7 @@ Package Managers
 |[PowerShell Gallery](https://www.powershellgallery.com/)|
 |[Chocolatey](https://chocolatey.org/)| [Chocolatey Install](https://chocolatey.org/install)
 |[Crates(Cargo)](https://crates.io)| [Cargo Install](https://doc.rust-lang.org/cargo/getting-started/installation.html)| [Awesome Rust](https://crates.io/crates/awesome-rust)
-
+------------
 </details>
 
 
@@ -48,6 +48,7 @@ My favourite:
 - [MesloLG](https://github.com/ryanoasis/nerd-fonts/releases/download/v3.0.1/Meslo.zip)
 - [JetBrainsMono](https://github.com/ryanoasis/nerd-fonts/releases/download/v3.0.1/JetBrainsMono.zip)
 - [Terminess](https://github.com/ryanoasis/nerd-fonts/releases/download/v3.0.1/Terminus.zip)
+----------
 </details>
 
 
@@ -68,6 +69,9 @@ Discord Music Bot
     ```
     git clone https://github.com/Just-Some-Bots/MusicBot.git MusicBot -b master 
     ```
+### After doing that, a folder called MusicBot will appear in the folder you opened Git Bash in. Configure your bot, then run update.bat to update your dependencies, then run.bat to start the MusicBot.
+
+---
 </details>    
     
 
@@ -82,5 +86,5 @@ Other Useful Stuff
 ```
 Magic.{ED7BA470-8E54-465E-825C-99712043E01C}
 ```
-
+-----------
 </details>
