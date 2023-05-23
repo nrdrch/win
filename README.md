@@ -33,6 +33,7 @@ Package Managers
 |[PowerShell Gallery](https://www.powershellgallery.com/)|
 |[Chocolatey](https://chocolatey.org/)| [Chocolatey Install](https://chocolatey.org/install)
 |[Crates(Cargo)](https://crates.io)| [Cargo Install](https://doc.rust-lang.org/cargo/getting-started/installation.html)| [Awesome Rust](https://crates.io/crates/awesome-rust)
+| [PyPI(Python)](https://pypi.org/)
 ------------
 </details>
 
