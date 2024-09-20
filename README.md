@@ -20,7 +20,12 @@ iwr -useb https://christitus.com/win | iex
 ### [Tron Script](https://github.com/bmrf/tron)
 
 -----------
-
+### **Bypass Microsoft sign it at setup (OOBE)**
+> hit **Shift+F10** during setup to open command prompt and enter the code below
+```
+oobe\bypassnro
+```
+------
 <details>
 <summary>
 Package Managers
