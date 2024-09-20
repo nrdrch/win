@@ -26,6 +26,13 @@ iwr -useb https://christitus.com/win | iex
 oobe\bypassnro
 ```
 ------
+### Windows System File Checker 
+> open PowerShell as Administrator and run the code below
+```
+sfc /scannow
+```
+-----
+
 <details>
 <summary>
 Package Managers
